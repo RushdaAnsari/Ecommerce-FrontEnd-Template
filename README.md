@@ -1,5 +1,5 @@
 # Ecommerce-FrontEnd-Template
-This eCommerce Frontend Template is a starter kit for building an online store. It provides a foundation for developers to build custom eCommerce websites using HTML, CSS, and JavaScript.
+The purpose of this project is to demonstrate my understanding of HTML, CSS, and JavaScript. This project was built using these technologies, showcasing my ability to design and develop web pages. This is an eCommerce Frontend Template for building an online store. It provides a foundation for developers to build custom eCommerce websites using HTML, CSS, and JavaScript.
 # Features
 * Fully responsive design: The template is optimized for different screen sizes and is compatible with all modern browsers.
 * Clean and modular code: The template is built using modern web development techniques, making it easy to maintain and scale as needed.
