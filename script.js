@@ -17,9 +17,3 @@ if (close) {
     })
 }
 
-// if (searchbutton) {
-//     searchbutton.addEventListener('click', () =>{
-//         searchbar.classList.add('active');
-//     })
-// }
-
